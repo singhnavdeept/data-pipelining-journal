@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pathway (pipelines)/roadmap (temp 0).md",
+                "file": "NOTES/WEEK 1/Data engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "roadmap (temp 0)"
+              "title": "Data engineering"
             }
           },
           {
@@ -219,12 +219,19 @@
   },
   "active": "ef85f6781b88807c",
   "lastOpenFiles": [
-    "DAA/TEMP 2MCQ.md",
-    "Pathway (pipelines)/roadmap (temp 0).md",
-    "Pathway (pipelines)",
     "DAA/MCQ UNIT 4 AND 5.md",
-    "DAA/Unit 5.md",
+    "NOTES/WEEK 1/Data engineering.md",
+    "NOTES/WEEK 1",
+    "NOTES",
+    "Pathway (pipelines)/Road Map.md",
+    "DAA.md",
+    "Pathway (pipeline).md",
+    "Pathway (pipelines)/ROADMAP TEMPLATE.md",
     "DAA/Unit 4 and 5.md",
+    "Pathway (pipelines)/roadmap (temp 0).md",
+    "DAA/TEMP 2MCQ.md",
+    "Pathway (pipelines)",
+    "DAA/Unit 5.md",
     "Welcome.md",
     "DAA"
   ]
